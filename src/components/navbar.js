@@ -1,7 +1,5 @@
 import React from "react";
 import './navbar.styles.scss';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { Link } from "react-router-dom";
 
 class Navbar extends React.Component {
